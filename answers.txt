@@ -1,0 +1,3 @@
+Q1: Why might we consider using git?
+
+Answer: I think we use git because it allows for version control and is easily learnt. 

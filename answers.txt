@@ -5,3 +5,7 @@ Answer: I think we use git because it allows for version control and is easily l
 Q2: What field could data science be applied to? Give an example and how it might help
 
 Answer: Data Science could be applied to the  field of machine learning. For example some websites, like Amazon, use ml and data science together to create recommendations. 
+
+Q3: What is the difference between merging and rebasing?
+
+Answer: Merging preserves the history of the commits and is a safe option. Rebasing creates a linear history by rewriting history by combining or moving the sequence of commits. 
